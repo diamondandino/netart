@@ -1,0 +1,15 @@
+body {
+  max-width: 1000px;
+  margin:auto;
+  background-color: #0B1240;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  margin-top: 50px
+}
+
+#one {
+  background-color: white;
+}

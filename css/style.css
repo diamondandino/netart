@@ -24,15 +24,12 @@ h3 {
 #two {
   background-color: orange;
   float: left;
-  margin-left: 50px;
-  margin-bottom: 50px;
 }
 
 #three {
-  background-color: pink;
   float: right;
-  margin-right: 55px;
-  margin-bottom: 50px;
+  margin-right: 50px;
+  margin-bottom: 45px;
 }
 
 #four {
