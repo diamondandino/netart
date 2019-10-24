@@ -1,0 +1,25 @@
+body {
+  max-width: 1000px;
+  margin:auto;
+  background-color: #802519;
+}
+
+h1 {
+text-align: center;
+}
+
+h3 {
+font-size: 24pt;
+text-align: center;
+}
+
+p{
+  text-align: center;
+  font-size: 24pt;
+  position: relative;
+  top: 170px;
+}
+
+#one {
+  background-color: white;
+}
