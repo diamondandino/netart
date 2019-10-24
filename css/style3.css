@@ -21,5 +21,23 @@ p {
 text-align: center;
 font-size: 24pt;
 position: relative;
-top: 170px; 
+top: 170px;
 }
+
+.work {
+  float:left;
+}
+.USWNT {
+  float: right;
+  position: relative;
+  left: 50px;
+}
+.photography {
+  float:right;
+}
+.Jstar {
+    float:right;
+}
+.porsche {
+    float:right;
+  }
