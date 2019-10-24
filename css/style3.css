@@ -5,11 +5,20 @@ body {
 }
 
 h1 {
-  color: black;
+  color: white;
   text-align: center;
-  margin-top: 50px
 }
 
 #one {
   background-color: white;
+}
+
+h3 {
+  font-size: 24pt;
+}
+
+p {
+text-align: center;
+font-size: 24pt;
+top: 100px;
 }
