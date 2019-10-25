@@ -24,20 +24,20 @@ position: relative;
 top: 170px;
 }
 
-.work {
-  float:left;
-}
 .USWNT {
   float: right;
   position: relative;
-  left: 50px;
+  right:75px;
 }
-.photography {
-  float:right;
+
+.concert {
+  float: right;
+  position: relative;
+  right: 395px;
 }
-.Jstar {
-    float:right;
-}
+
 .porsche {
-    float:right;
-  }
+  float: right;
+  position: relative;
+  left: 223px;
+}
