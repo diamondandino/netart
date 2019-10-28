@@ -20,6 +20,28 @@ p{
   top: 170px;
 }
 
+.soccer{
+  float: right;
+  position: relative;
+}
+
+.art{
+  float: right;
+  position: relative;
+}
+
+.spanish{
+  float: right;
+  position: relative;
+}
+
+.youtube{
+  float: left;
+  position: relative;
+  margin-right: 200px;
+}
+
+
 #one {
   background-color: white;
 }

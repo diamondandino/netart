@@ -18,6 +18,10 @@ h3 {
   color: orange;
 }
 
+  a:hover {
+      color: hotpink;
+    }
+
 #one {
   background-color: yellow;
 }
@@ -34,7 +38,7 @@ h3 {
 }
 
 #four {
-  background-color: green;
+  background-color: yellow;
   clear: both;
 
 }
